@@ -12,6 +12,8 @@ powershell -command "& {iwr https://github.com/Pochowan/Instalador-Attract-Mode-
 
 timeout /t 10
 
+powershell -command Remove-Item -recurse 'Paquete-update-3.rar' -erroraction 'silentlycontinue'
+
 start "" "Configurar Lightguns.exe"
 
 msg * Actualizado.
