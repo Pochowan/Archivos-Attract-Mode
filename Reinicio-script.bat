@@ -29,7 +29,10 @@ powershell -command Remove-Item -recurse 'Paquete-update-3.rar' -erroraction 'si
 
 start "" "Configurar Lightguns.exe"
 
-msg * Actualizado (7 Enero 2025).
+msg * Modo Arcade The House Of The Dead 3 instalado.
+msg * Teclas especiales Rshift desactivadas (no se pulsara accidentalmente)
+msg * Bezels Sega Model 2 corregidos.
+msg * Actualizado script (7 de Enero 2025)
 
 exit
 
