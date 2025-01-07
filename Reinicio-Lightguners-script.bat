@@ -29,7 +29,7 @@ powershell -command Remove-Item -recurse 'Paquete-update-3-Lightguners.rar' -err
 
 start "" "Configurar Lightguns.exe"
 
-msg * Actualizado.
+msg * Actualizado (7 de Enero 2025)
 
 exit
 
