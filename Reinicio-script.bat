@@ -5,11 +5,19 @@ title Actualizando script,espera...
 echo.
 
 echo Descargando,espera...
-
+echo.
 powershell -command "& {iwr https://github.com/Pochowan/Instalador-Attract-Mode-Pack-Base-738Gb/raw/refs/heads/main/Paquete-update-3.rar -OutFile Paquete-update-3.rar}"
+echo.
+cls
+echo.
+echo Descomprimiendo,espera...
 
 "C:\Program Files\7-Zip\7z.exe" x Paquete-update-3.rar -y > NUL
-
+echo.
+cls
+echo.
+echo Instalado,Configurar Lightguns iniciara en 10 segundos...
+echo.
 timeout /t 10
 
 powershell -command Remove-Item -recurse 'Paquete-update-3.rar' -erroraction 'silentlycontinue'
