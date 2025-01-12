@@ -32,6 +32,7 @@ start "" "Configurar Lightguns.exe"
 msg * (Super Nintendo) Lethal Enforcers ahora se puede jugar a 2 jugadores.
 msg * (Super Nintendo) T2 Arcade ahora se puede jugar a 2 jugadores (mira acelerada)
 msg * (Super Nintendo) Operation Thunderbolt modo para 2 jugadores,tiene un bug al iniciar,mira paralizada.
+msg * (Super Nintendo) Tin Star y Battle Clash,ahora se puede salir despues de calibrar (boton izquierdo o derecho)
 msg * Nuevas opciones disponibles para a¤adir contenido extra (Activar/desactivar mira ,cambio de formato,todo dentro de Attract Mode)
 msg * Actualizado script (12 de Enero 2025)
 
