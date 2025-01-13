@@ -35,8 +35,9 @@ msg * (Super Nintendo) Operation Thunderbolt modo para 2 jugadores,tiene un bug 
 msg * (Super Nintendo) Tin Star y Battle Clash,ahora se puede salir despues de calibrar (boton izquierdo o derecho)
 msg * (Nintendo) A¤adido botones para saltar subtitulos en Laser Invasion (para jugar elegir Laser Scope desde el menu de opciones)
 msg * (Sega Master System) Core actualizado y funcional,2 jugadores en Gangter Town.
+msg * (The House Of The Dead 3) Arreglo de carga del juego y controles.
 msg * Nuevas opciones disponibles para a¤adir contenido extra (Activar/desactivar mira ,cambio de formato,todo dentro de Attract Mode)
-msg * Actualizado script (13 de Enero 2025)
+msg * Actualizado script (14 de Enero 2025)
 
 exit
 
