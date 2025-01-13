@@ -36,7 +36,7 @@ msg * (Super Nintendo) Tin Star y Battle Clash,ahora se puede salir despues de c
 msg * (Nintendo) A¤adido botones para saltar subtitulos en Laser Invasion (para jugar elegir Laser Scope desde el menu de opciones)
 msg * (Sega Master System) Core actualizado y funcional,2 jugadores en Gangter Town.
 msg * Nuevas opciones disponibles para a¤adir contenido extra (Activar/desactivar mira ,cambio de formato,todo dentro de Attract Mode)
-msg * Actualizado script (12 de Enero 2025)
+msg * Actualizado script (13 de Enero 2025)
 
 exit
 
