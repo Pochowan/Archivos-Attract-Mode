@@ -9,23 +9,24 @@ reg add "HKCU\Control Panel\Accessibility\StickyKeys" /v HotkeyOnly /t REG_DWORD
 reg add "HKCU\Control Panel\Accessibility\StickyKeys" /v InitialToggle /t REG_DWORD /d 0 /f
 reg add "HKCU\Control Panel\Accessibility\StickyKeys" /v Sound /t REG_DWORD /d 0 /f
 
-echo Descargando paquete,espera...
+echo.
+echo Descargando parches (25Mb),espera...(1 de 5)
 echo.
 powershell -command "& {iwr https://github.com/Pochowan/Instalador-Attract-Mode-Pack-Base-738Gb/raw/refs/heads/main/Paquete-update-3.rar -OutFile Paquete-update-3.rar}"
 echo.
-echo Descargando Archivos,espera...
+echo Descargando Archivos de contenido (741Mb),espera...(2 de 5)
 echo.
 powershell -command "& {iwr https://github.com/Pochowan/Archivos-Attract-Mode/releases/download/Archivos/Archivos-Lightguns.rar -OutFile Archivos-Lightguns.rar}"
 echo.
-echo Descargando contenido extra de Sega Master System,espera...
+echo Descargando contenido extra de Sega Master System (57Mb),espera...(3 de 5)
 echo.
 powershell -command "& {iwr https://github.com/Pochowan/Archivos-Attract-Mode/releases/download/Archivos/master-Herramientas-Lightguners.rar -OutFile master-Herramientas-Lightguners.rar}"
 echo.
-echo Descargando contenido extra de Super Nintendo Entertainment System,espera...
+echo Descargando contenido extra de Super Nintendo Entertainment System (43Mb),espera...(4 de 5)
 echo.
 powershell -command "& {iwr https://github.com/Pochowan/Archivos-Attract-Mode/releases/download/Archivos/Snes-Herramientas-Lightguners.rar -OutFile Snes-Herramientas-Lightguners.rar}"
 echo.
-echo Descargando contenido extra de Nintendo Entertainment System,espera...
+echo Descargando contenido extra de Nintendo Entertainment System (37Mb),espera...(5 de 5)
 echo.
 powershell -command "& {iwr https://github.com/Pochowan/Archivos-Attract-Mode/releases/download/Archivos/Nes-Herramientas-Lightguners.rar -OutFile Nes-Herramientas-Lightguners.rar}"
 echo.
