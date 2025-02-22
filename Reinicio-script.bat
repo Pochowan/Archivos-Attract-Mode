@@ -85,7 +85,10 @@ msg * (Sega Master System) Core actualizado y funcional,2 jugadores en Gangter T
 msg * (The House Of The Dead 3) Arreglo de carga del juego y controles.
 msg * (Modulos y scripts actualizados) Carga mas rapida de juegos , archivos para nuevas configuraciones en los Emuladores.
 msg * Nuevas opciones disponibles para a¤adir contenido extra (Activar/desactivar mira ,cambio de formato,todo dentro de Attract Mode)
-msg * Actualizado script (21 de Enero 2025)
+msg * (Virtua Cop 3) Arreglo para detectar pistola. (22 de Febrero 2025)
+msg * (Sinden Lightguns) A¤adidos mapeos faltantes para coins. (22 de Febrero 2025)
+msg * (Configurador actualizado) Se elimino las rutas portables,ahora las rutas son completas. (22 de Febrero 2025)
+msg * Actualizado script (22 de Febrero 2025)
 
 exit
 
