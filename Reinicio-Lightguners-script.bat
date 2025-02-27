@@ -73,6 +73,9 @@ msg * Nuevas opciones disponibles para a¤adir contenido extra (Activar/desactiva
 msg * (Sinden Lightguns) A¤adidos mapeos faltantes para coins. (22 de Febrero 2025)
 msg * (Configurador actualizado) Se elimino las rutas portables,ahora las rutas son completas. (22 de Febrero 2025)
 msg * (Virtua Cop 3) Arreglo para detectar pistola y arreglo de ruta en modulo. (27 de Febrero 2025)
+msg * (Extreme Hunter) Arreglo para carga de video. (27 de Febrero 2025)
+msg * (Extreme Hunter 2) Boton de recarga arreglado. (27 de Febrero 2025)
+msg * (Sega Naomi) Arreglo para moverse en modo test (boton derecho) , hay que cambiar a Controller en Retroarch. (27 de Febrero 2025)
 msg * Actualizado script (27 de Febrero 2025)
 
 exit
