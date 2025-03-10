@@ -14,7 +14,7 @@ reg add "HKCU\Control Panel\Accessibility\StickyKeys" /v Sound /t REG_DWORD /d 0
 echo.
 echo Descargando script,espera...
 echo.
-powershell -command "& {iwr https://github.com/Pochowan/Instalador-Attract-Mode-Pack-Base-738Gb/raw/refs/heads/main/Configurar-Lightguners.rar -OutFile Configurar-Lightguners.rarr}"
+powershell -command "& {iwr https://github.com/Pochowan/Instalador-Attract-Mode-Pack-Base-738Gb/raw/refs/heads/main/Configurar-Lightguners.rar -OutFile Configurar-Lightguners.rar}"
 echo.
 
 cls
