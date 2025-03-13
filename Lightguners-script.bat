@@ -33,7 +33,7 @@ powershell -command Remove-Item -recurse 'Configurar-Lightguners.rar' -erroracti
 
 start "" "Configurar Lightguns.exe"
 
-msg * Actualizado script (12 de Marzo 2025)
+msg * Actualizado script (13 de Marzo 2025)
 
 exit
 
