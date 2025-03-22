@@ -52,12 +52,12 @@ echo Instalado,el script para configurar el pack Lightguners iniciara en 10 segu
 
 timeout /t 10
 
-powershell -command Remove-Item -recurse 'Paquete-update-3.rar' -erroraction 'silentlycontinue'
-powershell -command Remove-Item -recurse 'Archivos-Lightguns.rar' -erroraction 'silentlycontinue'
+powershell -command Remove-Item -recurse 'Paquete-update-3-Lightguners.rar' -erroraction 'silentlycontinue'
+powershell -command Remove-Item -recurse 'Archivos-Lightguners.rar' -erroraction 'silentlycontinue'
 powershell -command Remove-Item -recurse 'master-Herramientas-Lightguners.rar' -erroraction 'silentlycontinue'
 powershell -command Remove-Item -recurse 'snes-Herramientas-Lightguners.rar' -erroraction 'silentlycontinue'
 powershell -command Remove-Item -recurse 'Nes-Herramientas-Lightguners.rar' -erroraction 'silentlycontinue'
-powershell -command Remove-Item -recurse 'attract-Lightguns.rar' -erroraction 'silentlycontinue'
+powershell -command Remove-Item -recurse 'attract-Lightguners.rar' -erroraction 'silentlycontinue'
 
 start "" "Configurar Lightguns.exe"
 
