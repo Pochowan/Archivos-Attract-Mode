@@ -39,11 +39,11 @@ cls
 
 echo Descomprimiendo,espera...
 
-"C:\Program Files\7-Zip\7z.exe" x Paquete-update-3-Lightguners.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x Archivos-Lightguners.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x master-Herramientas-Lightguners.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x Snes-Herramientas-Lightguners.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x Nes-Herramientas-Lightguners.rar -y > NUL
+"C:\Program Files\7-Zip\7z.exe" x Paquete-update-3-Lightguners.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x attract-Lightguners.rar -y > NUL
 
 cls
