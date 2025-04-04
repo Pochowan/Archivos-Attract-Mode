@@ -36,11 +36,11 @@ powershell -command "& {iwr https://github.com/Pochowan/Attract-cfg-update/raw/r
 cls
 echo Descomprimiendo,espera...
 
-"C:\Program Files\7-Zip\7z.exe" x Paquete-update-3.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x Archivos-Lightguns.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x master-Herramientas-Lightguners.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x Snes-Herramientas-Lightguners.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x Nes-Herramientas-Lightguners.rar -y > NUL
+"C:\Program Files\7-Zip\7z.exe" x Paquete-update-3.rar -y > NUL
 "C:\Program Files\7-Zip\7z.exe" x attract-Lightguns.rar -y > NUL
 
 echo.
