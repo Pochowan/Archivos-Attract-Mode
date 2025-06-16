@@ -92,7 +92,7 @@ msg * (Extreme Hunter) Arreglo para carga de video. (27 de Febrero 2025)
 msg * (Extreme Hunter 2) Boton de recarga arreglado. (27 de Febrero 2025)
 msg * (Sega Naomi) Arreglo para moverse en modo test (boton derecho) , hay que cambiar a Controller en Retroarch. (27 de Febrero 2025)
 msg * (OpenFire TeknoParrot) Corregido nombres por defecto. (16 de Junio 2025)
-msg * Actualizado script (16 de Junio 2025)
+msg * Actualizado script (17 de Junio 2025)
 
 exit
 
