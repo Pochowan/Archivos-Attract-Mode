@@ -77,7 +77,8 @@ msg * (Extreme Hunter) Arreglo para carga de video. (27 de Febrero 2025)
 msg * (Extreme Hunter 2) Boton de recarga arreglado. (27 de Febrero 2025)
 msg * (Sega Naomi) Arreglo para moverse en modo test (boton derecho) , hay que cambiar a Controller en Retroarch. (27 de Febrero 2025)
 msg * (OpenFire TeknoParrot) Corregido nombres por defecto y mapeos,instalacion individual para OpenFIRE y Gun4ir. (19 de Junio 2025)
-msg * Actualizado script (19 de Junio 2025)
+msg * (Sony Playstation 3) Corregido cambio de ruta del disco duro. (20 de Junio 2025)
+msg * Actualizado script (20 de Junio 2025)
 
 exit
 
