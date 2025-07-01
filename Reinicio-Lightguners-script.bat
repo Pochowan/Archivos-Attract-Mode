@@ -80,7 +80,8 @@ msg * (OpenFire TeknoParrot) Corregido nombres por defecto y mapeos,instalacion 
 msg * (Sony Playstation 3) Corregido cambio de ruta del disco duro. (20 de Junio 2025)
 msg * (OpenFire TeknoParrot) Corregido nombres por defecto y mapeos,instalacion individual para OpenFIRE y Gun4ir. (19 de Junio 2025)
 msg * (PlayStation) A¤adido emulador Duckstation con soporte para 2 Lightguns,modulo autochequeo de ID. (24 de Junio 2025)
-msg * Actualizado script (24 de Junio 2025)
+msg * (Sony Playstation 3) Scripts corregidos para detectar las pistolas. (1 de Julio 2025)
+msg * Actualizado script (1 de Julio 2025)
 
 exit
 
